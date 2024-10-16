@@ -1,1 +1,1 @@
-https://ArthurSaks.github.io/rsschool-cv/cv
+https://ArthurSaks.github.io/rsschool-cv1/cv
