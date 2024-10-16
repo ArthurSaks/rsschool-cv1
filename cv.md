@@ -1,6 +1,6 @@
 ## **Сакс Артур Алексеевич**
-### _контакты для связи:_
-tg: <img src="image.png" width="50" height="50">
+#### _контакты для связи:_
+tg: https://t.me/Arthur_Saks <img src="image.png" width="100" height="100">
 
 E-mail: Saks97@mail.ru
 
