@@ -1,7 +1,7 @@
 ## **Сакс Артур Алексеевич**
 #### _контакты для связи:_
 tg: https://t.me/Arthur_Saks  E-mail: Saks97@mail.ru   
-<img src="https://vscode.dev/github/ArthurSaks/rsschool-cv1/blob/gh-pages/image/image.png" width="120" height="120">
+<img src="![alt text](image/image.png)" width="120" height="120">
 
 E-mail: Saks97@mail.ru
 
@@ -40,7 +40,3 @@ Surf Coffee × JetLag
 
 #### _Английский язык_
 Начальный уровень
-
-
-
-[def]: image/image.png
